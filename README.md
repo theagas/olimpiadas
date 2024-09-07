@@ -1,4 +1,4 @@
-## **README.md Descontraído para sua Aplicação de Pesquisa**
+## **Olimpiadas e seus Atletas.**
 
 ### **O que essa aplicação faz?**
 
